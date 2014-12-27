@@ -1,0 +1,225 @@
+			body {
+				background-color: rgb(200,200,200);
+				margin: 0px;
+				overflow: hidden;
+			}
+
+			#info {
+				position: absolute;
+				top: 0px; width: 100%;
+				color: #ffffff;
+				font-family:Monospace;
+				font-size:10px;
+			}
+
+      #label_5 {
+        background-color: #1e1313
+      }
+      
+      #label_4 {
+        background-color: #422a2a
+      }
+      
+      #label_3 {
+        background-color: #684444
+      }
+      
+      #label_2 {
+        background-color: #774f4f
+      }
+      
+      #label_1 {
+        background-color: #835656
+      }
+                   
+      #menu_1 {
+  			text-align: center;      
+				color: #000000;
+        background-color: #fcfcdf
+      }
+      
+      #menu_2 {
+  			text-align: center;      
+				color: #000000;      
+        background-color: #f9ebad
+      }
+       
+      #menu_3 {
+  			text-align: center;      
+ 				color: #000000;
+        background-color: #e8d39b
+      }
+
+      #menu_4 {
+  			text-align: center;      
+ 				color: #000000;
+        background-color: #d2c58e
+      }
+       
+      #menu_5 {
+  			text-align: center;      
+ 				color: #000000;
+        background-color: #ac947a
+      }
+
+      #menu_6 {
+  			text-align: center;      
+ 				color: #e8d39b;
+        background-color: #6b7074
+      }
+                   
+      #menu_7 {
+  			text-align: center;      
+        background-color: #ead69c
+      }
+      
+      #menu_8 {
+  			text-align: center;      
+        background-color: #ad9b82
+      }
+      
+      #menu_9 {
+  			text-align: center;      
+        background-color: #f0de91
+      }
+      
+      #menu_10 {
+  			text-align: center;      
+        background-color: #f0de91
+      }
+      
+      #menu_11 {
+  			text-align: center;      
+        background-color: #e9cb8e
+      }
+                   
+      #menu_12 {
+  			text-align: center;      
+				color: #000000;
+        background-color: #e0b984
+      }
+      
+      #menu_13 {
+  			text-align: center;      
+				color: #000000;      
+        background-color: #c6ad8b
+      }
+       
+      #menu_14 {
+  			text-align: center;      
+ 				color: #835656;
+        background-color: #b3b6bd
+      }
+
+      #menu_15 {
+  			text-align: center;      
+ 				color: #f0de91;
+        background-color: #737473
+      }
+       
+      #menu_16 {
+  			text-align: center;      
+ 				color: #fcfcdf;
+        background-color: #53585e
+      }
+
+      #menu_17 {
+  			text-align: center;
+ 				color: #000000;
+        background-color: #4f5051
+      }                        
+
+			#menu_home {
+  			text-align: center;
+ 				color: #ffffff;
+        background-color: #f00000
+			}
+
+			a {
+				color: #000000;
+			}
+			
+			
+      #logo {
+        color: #585a63;
+ 				font-family:Monospace;
+				font-size:10px;
+      }
+			
+			#copyright {
+        color: #585a63;
+ 				font-family:Monospace;
+				font-size:8px;			
+			}
+
+      #embedded {
+				position: absolute;
+				top: 6%; width: 15%; left: -50%
+        margin: -25px auto 100 -150px;
+        text-shadow: 1px 1px 3px #ccc;
+      	-webkit-border-radius: 12px;
+      	border-radius: 12px;
+      	-moz-background-clip: padding;
+      	-webkit-background-clip: padding-box; 
+      	background-clip: padding-box;
+      	-webkit-box-shadow: 0px 0px 4px 0px #2b282b;
+      	box-shadow: 0px 0px 4px 0px #2b282b;
+
+      	background-color: #444444;
+      	background-image: -webkit-gradient(linear, left top, left bottom, from(#444444), to(#999999));
+      	background-image: -webkit-linear-gradient(top, #444444, #999999);
+      	background-image:    -moz-linear-gradient(top, #444444, #999999);
+      	background-image:     -ms-linear-gradient(top, #444444, #999999);
+	      background-image:      -o-linear-gradient(top, #444444, #999999);
+      	background-image:         linear-gradient(to bottom, #444444, #999999);
+      	z-index: 11;
+        background-color:rgba(250,0,0,0.8);
+      }
+      
+      #videos {
+				position: absolute;
+				top: 6%; width: 50%; left: 0%; height: 20
+        text-shadow: 1px 1px 3px #ccc;
+      	-webkit-border-radius: 12px;
+      	border-radius: 12px;
+      	-moz-background-clip: padding;
+      	-webkit-background-clip: padding-box; 
+      	background-clip: padding-box;
+      	-webkit-box-shadow: 0px 0px 4px 0px #2b282b;
+      	box-shadow: 0px 0px 4px 0px #2b282b;
+
+      	background-color: #444444;
+      	background-image: -webkit-gradient(linear, left top, left bottom, from(#444444), to(#999999));
+      	background-image: -webkit-linear-gradient(top, #444444, #999999);
+      	background-image:    -moz-linear-gradient(top, #444444, #999999);
+      	background-image:     -ms-linear-gradient(top, #444444, #999999);
+	      background-image:      -o-linear-gradient(top, #444444, #999999);
+      	background-image:         linear-gradient(to bottom, #444444, #999999);
+      	z-index: 10;
+        background-color:rgba(250,0,0,0.8);
+      }
+      
+      #fullscreen {
+        position:absolute;
+      	left:0; right:0; top:50px; bottom:0;
+      	width:100%; height:94%;
+      	overflow:hidden;
+      }
+
+      #donation_tbl {
+        position:absolute;
+      	left:0; right:0; top:50px; bottom:0;
+      	width:100%; height:94%;
+      	overflow:hidden;
+      	text-align: center;
+ 	      vertical-align: middle;
+      }
+      
+      #map_canvas {
+        height: 94% 
+      }
+      
+      #donation_text {
+        color: #f00000;
+				font-size:34px;
+      }

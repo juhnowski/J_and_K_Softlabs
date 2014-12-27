@@ -1,0 +1,7 @@
+function JKActionListener() {
+  this.list ;
+  
+  this.init = function(id) {
+    document.getElementById(id).innerHTML+='<table width=100%><tr><td id="menu_home">J&K</td><td id="menu_1">&nbsp Embedded &nbsp</td><td id="menu_2">&nbsp Enterprise &nbsp</td><td id="menu_3">&nbsp Financial &nbsp</td><td id="menu_4">&nbsp Games &nbsp</td><td id="menu_5">&nbsp Micro &nbsp</td><td id="menu_6">&nbsp Media &nbsp</td><td id="menu_7">&nbsp Network &nbsp</td><td id="menu_8">&nbsp Philosophy &nbsp</td><td id="menu_12">&nbsp Robot &nbsp</td><td id="menu_9">&nbsp RT &nbsp</td><td id="menu_10">&nbsp Social &nbsp</td><td id="menu_11">&nbsp Seсurity &nbsp</td><td id="menu_2">&nbsp Sensors &nbsp</td><td id="menu_12">&nbsp <b>Downloads</b> &nbsp</td><td id="menu_13">&nbsp <b>News</b> &nbsp</td><td id="menu_14">&nbsp <b>Events</b> &nbsp</td><td id="menu_15">&nbsp <b>Support</b> &nbsp</td><td id="menu_16">&nbsp <b>Specialists</b> &nbsp</td></tr></table>';
+  };
+};
